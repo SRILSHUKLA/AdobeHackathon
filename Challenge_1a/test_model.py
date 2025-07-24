@@ -209,10 +209,10 @@ def main():
                        default='models/heading_classifier.pth',
                        help='Path to trained model (default: models/heading_classifier.pth)')
     parser.add_argument('--input', '-i',
-                       default='data/test/pdfs',
+                       default='input/',
                        help='Input directory with test PDFs (default: data/test/pdfs)')
     parser.add_argument('--output', '-o',
-                       default='data/test/annotations',
+                       default='output/',
                        help='Output directory for results (default: data/test/annotations)')
     parser.add_argument('--single', '-s',
                        help='Test a single PDF file instead of directory')
