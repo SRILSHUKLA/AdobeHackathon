@@ -1,0 +1,20 @@
+{
+  "title": "Top Skills",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Top Skills",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Education",
+      "page": 1
+    }
+  ],
+  "metadata": {
+    "processing_time_seconds": 0.26,
+    "file_size_mb": 0.03,
+    "timestamp": "2025-07-24 12:44:07"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "summary": {
+    "total_files": 7,
+    "successful": 6,
+    "failed": 1,
+    "total_processing_time": 6.55,
+    "average_processing_time": 1.0916666666666666,
+    "total_size_mb": 3.26
+  },
+  "detailed_results": [
+    {
+      "filename": "antiragging_form.pdf",
+      "success": true,
+      "processing_time": 1.94,
+      "file_size_mb": 0.03,
+      "title": "Reference Number 2533857",
+      "num_headings": 0
+    },
+    {
+      "filename": "Assignment-3.pdf",
+      "success": true,
+      "processing_time": 0.44,
+      "file_size_mb": 0.2,
+      "title": "Assignment \u2013 3  [ Marks-7]             16/4/24",
+      "num_headings": 0
+    },
+    {
+      "filename": "A_Hybrid_Convolutional_Neural_Net_CNN__Transformer_Based_Approach_For_Multi_Class_Classification_of_Pneumonia__COVID_19_and_Normal_Cases (1).pdf",
+      "success": false,
+      "processing_time": 0,
+      "file_size_mb": 0.64,
+      "title": "",
+      "num_headings": 0
+    },
+    {
+      "filename": "BENG101L_TECHNICAL-ENGLISH-COMMUNICATION_TH_1.0_65_BENG101L.pdf",
+      "success": true,
+      "processing_time": 2.16,
+      "file_size_mb": 1.07,
+      "title": "Technical  English Communication",
+      "num_headings": 7
+    },
+    {
+      "filename": "Hackhub.pdf",
+      "success": true,
+      "processing_time": 1.49,
+      "file_size_mb": 0.77,
+      "title": "UNIQUENESS & INNOVATION",
+      "num_headings": 2
+    },
+    {
+      "filename": "oslab9.pdf",
+      "success": true,
+      "processing_time": 0.26,
+      "file_size_mb": 0.52,
+      "title": "OS LAB 9",
+      "num_headings": 0
+    },
+    {
+      "filename": "Profile (1).pdf",
+      "success": true,
+      "processing_time": 0.26,
+      "file_size_mb": 0.03,
+      "title": "Top Skills",
+      "num_headings": 2
+    }
+  ]
+}

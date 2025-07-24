@@ -1,0 +1,65 @@
+{
+    "title": "SRIL SHUKLA",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "SUMMARY",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "EDUCATION",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "VELLORE INSTITUTE OF TECHNOLOGY (CHENNAI)",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "N L DALMIA HIGH SCHOOL",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "PROJECTS",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "DraftEase - Floor Plan to CAD Conversion Tool",
+            "page": 1
+        },
+        {
+                        "level": "H2",
+            "text": "CloudCrypt - A file encryption service for cloud",
+            "page": 1
+        },
+        {
+                        "level": "H2",
+            "text": "Hybrid CNN-Transformer for Chest X-ray Classification",
+            "page": 1
+        },
+        {
+                        "level": "H2",
+            "text": "DeepDefend - Deepfake Detection & Reporting Platform",
+            "page": 2
+        },
+        {
+                        "level": "H1",
+            "text": "SKILLS",
+            "page": 2
+        }, 
+        {
+                        "level": "H1",
+            "text": "KEY ACHIEVEMENTS",
+            "page": 2
+        },
+        {
+                        "level": "H1",
+            "text": "EXTRACURRICULAR",
+            "page": 2
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Stories for Every Child",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "1. The Brave Little Cloud",
+            "page": 1
+        },
+                {
+            "level": "H1",
+            "text": "2. Finley the Forgetful Fox",
+            "page": 1
+        },
+                {
+            "level": "H1",
+            "text": "3. Zara’s Colorful Glasses",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "4. Milo and the Music in the Wind",
+            "page": 2
+        },
+                {
+            "level": "H1",
+            "text": "5. The Turtle Who Raced the Light",
+            "page": 2
+        }
+
+    ]
+}
